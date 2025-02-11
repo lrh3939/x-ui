@@ -1,3 +1,4 @@
+测试用
 #!/bin/bash
 export LANG=en_US.UTF-8
 sred='\033[5;31m'
